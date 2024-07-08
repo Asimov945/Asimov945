@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Asimov945
+- 👀 I’m a taiwanese radiologist resident
+- interested in autohotkey/python/machine learning/artificial intelligance/medical imaging
+- 🌱 I’m currently learning autohotkey/python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Asimov945/Asimov945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
